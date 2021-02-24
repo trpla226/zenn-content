@@ -29,16 +29,16 @@ openmediavaultインストール後、共有フォルダを作成しようとし
 アンマウントできたら今度は「マウント」をクリックする。数十秒～数分間程度の処理が実行される。
 
 共有フォルダ作成のドロップダウンにデバイスが表示される。
-![](https://storage.googleapis.com/zenn-user-upload/aromu4co45y76qa81amsubbggclv)
+![](https://storage.googleapis.com/zenn-user-upload/kh38aoa8dp9bdcdzlzr8n9wwj7m1)
 
 参考
 ====
 
 https://openmediavault.readthedocs.io/en/5.x/troubleshooting.html
 
-公式ドキュメントのトラブルシュートの項目を見ると「openmediavaultのwebインターフェース以外でドライブをマウントしないでください。webインターフェースのマウント操作は、ドロップダウンに表示するのに必要な情報をデータベースに作成します」とあります。
+公式ドキュメントのトラブルシュートの項目を見ると「openmediavaultのwebインターフェース以外でドライブをマウントしないでください。webインターフェースのマウント操作は、ドロップダウンに表示するのに必要な情報をデータベースに作成します」とある。
 
-どうやら、接続したHDDをすぐに使えるようにOSが気を効かせてマウントしてくれていたのが裏目に出ていたようです。
+どうやら、接続したHDDをすぐに使えるようにOSが気を効かせてマウントしてくれていたのが裏目に出ていたようだ。
 
 
 補足
