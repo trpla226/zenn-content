@@ -3,7 +3,7 @@ title: "Xamarin.Macでlog4netを利用する"
 emoji: "🍎"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["VisualStudio", "dotnet", "XamarinMac", "Mac", "csharp"]
-published: false
+published: true
 ---
 
 やりたいこと
